@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Demo - Zadanie 7 - WWW i jzyki skryptowe</title>
+    <title>Forum ver 2 - dynamic JSON</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0">
     <meta http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate" />
@@ -13,11 +13,8 @@
 <body>
 <header>
   <h1>
-      Demo - Zadanie 7
+  Forum ver 2 - dynamic JSON
   </h1>
-  <h2>
-      Forum - dynamiczne modyfikacje strony, JavaScript, jQuery i AJAX
-  </h2>
 </header>
 <nav>
         <a href="../">Home</a>
