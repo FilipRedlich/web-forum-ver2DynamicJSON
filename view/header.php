@@ -8,7 +8,7 @@
     <meta http-equiv="Pragma" content="no-cache" />
     <link rel="stylesheet" type="text/css" href="style.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script src="zadanie7.js"></script>
+    <script src="dynamic.js"></script>
 </head>
 <body>
 <header>
