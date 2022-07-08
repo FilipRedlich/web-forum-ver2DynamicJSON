@@ -1,7 +1,3 @@
-//-----------------------------------------------------------------------------
-// zadanie7.js
-//-----------------------------------------------------------------------------
-//
 var modal_width = 450;
 // funkcje pomocnicze
 function modal_center(item){
@@ -64,10 +60,6 @@ $(document).ready(function(){
         modal_slideToggle("#modal_topic");
         event.preventDefault();
    });
-// ------------------- do uzupełnienia ----------------------------------------
-// kod obsługi dla: dodawania postów, edycji postów, dodawania obrazków,
-// edycji podpisu pod obrazkiem, oraz obsługa odpowiednich 'przycisków'
-//
 	$("#addpost").click( function(event){
 		$("#modal_post h2").html("Nowy post");
         modal_slideToggle("#modal_post");
@@ -121,10 +113,6 @@ $(document).ready(function(){
         modal_slideToggle("#modal_fileedit");
         event.preventDefault();
 	});
-
-
-//
-// ------------------- do uzupełnienia ----------------------------------------
    
    $("article.topic").mouseenter(function(){
      $(this).find("footer").css("background-color", "#ccc");
